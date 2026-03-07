@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="#diary">
-  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/Tilimage.jpg" width="32" alt="다이어리">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/Tilimage.png" width="32" alt="다이어리">
 </a>　
 <a href="#assignments">
   <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-3.png" width="32" alt="과제">

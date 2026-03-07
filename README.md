@@ -38,7 +38,7 @@
 ---
 
 <a name="diary"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/DiaryImage.png" width="24" /> 다이어리
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-3.png" width="24" /> 다이어리
 
 - 📌 [통합 요약본](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/%ED%86%B5%ED%95%A9%20%EC%9A%94%EC%95%BD%EB%B3%B8.md)
 
@@ -352,7 +352,7 @@
 ---
 
 <a name="unreal"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/Image/image-1.png" width="24" /> Unreal
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-1.png" width="24" /> Unreal
 
 <details>
 <summary><strong>블루프린트 학습 로드맵</strong></summary>

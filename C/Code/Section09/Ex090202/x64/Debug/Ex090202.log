@@ -1,0 +1,4 @@
+﻿  Ex090202.c
+C:\TIL\Til\C\Code\Section09\Ex090202\Ex090202.c(12,9): warning C4101: 'Birthday1': unreferenced local variable
+C:\TIL\Til\C\Code\Section09\Ex090202\Ex090202.c(13,14): warning C4101: 'Birthday2': unreferenced local variable
+  Ex090202.vcxproj -> C:\TIL\Til\C\Code\Section09\x64\Debug\Ex090202.exe

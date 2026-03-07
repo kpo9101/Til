@@ -1,0 +1,2 @@
+﻿  Ex090105.c
+C:\TIL\Til\C\Code\Section09\Ex090105\Ex090105.c(18,1): error C4700: uninitialized local variable 'Birthday' used

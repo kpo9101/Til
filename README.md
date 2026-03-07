@@ -7,14 +7,12 @@
 
 ---
 
-![alt text](image.png)
-
 ### 🚀 목차 
 
 <div align="center">
 
 <a href="#diary">
-  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/Tilimage.png" width="32" alt="다이어리">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/TilImage01.png" width="32" alt="다이어리">
 </a>　
 <a href="#assignments">
   <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-3.png" width="32" alt="과제">
@@ -40,7 +38,7 @@
 ---
 
 <a name="diary"></a>
-## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/Tilimage.jpg" width="24" /> 다이어리
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/TilImage01.png" width="24" /> 다이어리
 
 - 📌 [통합 요약본](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/%ED%86%B5%ED%95%A9%20%EC%9A%94%EC%95%BD%EB%B3%B8.md)
 

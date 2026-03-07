@@ -1,3 +1,0 @@
-﻿  Main.c
-C:\TIL\Til\C\Code\Section08\Ex080203\Main.c(22,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Ex080203.vcxproj -> C:\TIL\Til\C\Code\Section08\x64\Debug\Ex080203.exe

@@ -1,7 +1,6 @@
 <a name="top"></a>
 
 <div align="center">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/FIRST.png" width="300" alt="TIL Logo">
   <h1>Today I Learned</h1>
   <p><strong>오늘 배운 것은 오늘 작성하기</strong></p>
 </div>
@@ -16,22 +15,22 @@
   <img src="https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/DiaryImage.png" width="32" alt="다이어리">
 </a>　
 <a href="#assignments">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/image-3.png" width="32" alt="과제">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-3.png" width="32" alt="과제">
 </a>　
 <a href="#c">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/image-5.png" width="32" alt="C">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-5.png" width="32" alt="C">
 </a>　
-<a href="#cpp">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/image.png" width="32" alt="C++">
+<a href="#c++">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image.png" width="32" alt="C++">
 </a>　
 <a href="#unreal">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/image-1.png" width="32" alt="Unreal">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-1.png" width="32" alt="Unreal">
 </a>　
 <a href="#python">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/image-2.png" width="32" alt="Python">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-2.png" width="32" alt="Python">
 </a>　
 <a href="#link">
-  <img src="https://github.com/kpo9101/Til/blob/main/Image/image-4.png" width="32" alt="Link">
+  <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-4.png" width="32" alt="Link">
 </a>
 
 </div>
@@ -41,7 +40,7 @@
 <a name="diary"></a>
 ## <img src="https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/DiaryImage.png" width="24" /> 다이어리
 
-- 📌 [통합 요약본](https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/%ED%86%B5%ED%95%A9%20%EC%9A%94%EC%95%BD%EB%B3%B8.md)
+- 📌 [통합 요약본](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/%ED%86%B5%ED%95%A9%20%EC%9A%94%EC%95%BD%EB%B3%B8.md)
 
 <details>
 <summary><strong>📅 2026년</strong></summary>
@@ -51,7 +50,7 @@
 
 | 2026.03.03.화 | 2026.03.04.수 | 2026.03.05.목| 2026.03.06.금 | 2026.03.07.토 | 2026.03.08.일 | 2026.03.09.월 | 
 |---|---|---|---|---|---|---|
-| [2026.03.03.화](https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.03.%ED%99%94.md) |[2026.03.04.수](https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.04.%20%EC%88%98.md)|[2026.03.05.목](https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.05.%EB%AA%A9.md) | [2026.03.06.금](https://github.com/kpo9101/Til/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.06.%EA%B8%88.md) |  |  |  |
+| [2026.03.03.화](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.03.%ED%99%94.md) |[2026.03.04.수](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.04.%20%EC%88%98.md)|[2026.03.05.목](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.05.%EB%AA%A9.md) | [2026.03.06.금](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.06.%EA%B8%88.md) | [2026.03.07.토](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.07.%ED%86%A0.md) |  |  |
 
 | 2026.03.10.화 | 2026.03.11.수 | 2026.03.12.목 | 2026.03.13.금 | 2026.03.14.토 | 2026.03.15.일 | 2026.03.16.월 | 
 |---|---|---|---|---|---|---|
@@ -295,40 +294,40 @@
 ---
 
 <a name="assignments"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/Image/image-3.png" width="24" /> 과제
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-3.png" width="24" /> 과제
 
 <details >
 <summary><strong>과제 목록</strong></summary>
 
 | 과제 1 | 과제2 |
 |---|---|
-| [과제1](https://github.com/kpo9101/Til/blob/main/%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C1.md)| [과제2](https://github.com/kpo9101/Til/blob/main/%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C2.md) |
+| [과제1](https://github.com/kpo9101/MYTIL/blob/main/%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C1.md)| [과제2](https://github.com/kpo9101/MYTIL/blob/main/%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C2.md) |
 
 </details>
 
 ---
 
 <a name="c"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/Image/image-5.png" width="24" /> C
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-5.png" width="24" /> C
 
 <details >
 <summary><strong>Section 01 ~ 10</strong></summary>
 
 | 01 | 02 | 03 | 04 | 05 |
 |---|---|---|---|---|
-| [Section01](https://github.com/kpo9101/Til/blob/main/C/Section01.md) | [Section02](https://github.com/kpo9101/Til/blob/main/C/Section02.md) | [Section03](https://github.com/kpo9101/Til/blob/main/C/Section03.md) | [Section04](https://github.com/kpo9101/Til/blob/main/C/Section04.md) | [Section05](https://github.com/kpo9101/Til/blob/main/C/Section05.md) |
+| [Section01](https://github.com/kpo9101/MYTIL/blob/main/C/Section01.md) | [Section02](https://github.com/kpo9101/MYTIL/blob/main/C/Section02.md) | [Section03](https://github.com/kpo9101/MYTIL/blob/main/C/Section03.md) | [Section04](https://github.com/kpo9101/MYTIL/blob/main/C/Section04.md) | [Section05](https://github.com/kpo9101/MYTIL/blob/main/C/Section05.md) |
 
 | 06 | 07 | 08 | 09 | 10 |
 |---|---|---|---|---|
-| [Section06](https://github.com/kpo9101/Til/blob/main/C/Section06.md) | [Section07](https://github.com/kpo9101/Til/blob/main/C/Section07.md) | [Section08](https://github.com/kpo9101/Til/blob/main/C/Section08.md) | [Section09](https://github.com/kpo9101/Til/blob/main/C/Section09.md) | [Section10](https://github.com/kpo9101/Til/blob/main/C/Section10.md) |
+| [Section06](https://github.com/kpo9101/MYTIL/blob/main/C/Section06.md) | [Section07](https://github.com/kpo9101/MYTIL/blob/main/C/Section07.md) | [Section08](https://github.com/kpo9101/MYTIL/blob/main/C/Section08.md) | [Section09](https://github.com/kpo9101/MYTIL/blob/main/C/Section09.md) | [Section10](https://github.com/kpo9101/MYTIL/blob/main/C/Section10.md) |
 
 </details>
 
 ---
 
 
-<a name="cpp"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/Image/image.png" width="24" /> C++
+<a name="c++"></a>
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image.png" width="24" /> C++
 
 <details>
 <summary><strong>C++ 학습 로드맵 (1-1 ~ 3-2)</strong></summary>
@@ -336,17 +335,17 @@
 ### 1
 | 1-1 | 1-2 | 1-3 | 1-4 | 1-5 | 1-6 |
 |---|---|---|---|---|---|
-| [1-1](https://github.com/kpo9101/Til/blob/main/C%2B%2B/1-1.md) | [1-2](https://github.com/kpo9101/Til/blob/main/C%2B%2B/1-2.md) | [1-3](https://github.com/kpo9101/Til/blob/main/C%2B%2B/1-3.md) | [1-4](https://github.com/kpo9101/Til/blob/main/C%2B%2B/1-4.md) | [1-5](https://github.com/kpo9101/Til/blob/main/C%2B%2B/1-5.md) | [1-6](https://github.com/kpo9101/Til/blob/main/C%2B%2B/1-6.md) |
+| [1-1](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/1-1.md) | [1-2](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/1-2.md) | [1-3](http://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/1-3.md) | [1-4](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/1-4.md) | [1-5](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/1-5.md) | [1-6](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/1-6.md) |
 
 ### 2
 | 2-1 | 2-2 | 2-3 | 2-4 |
 |---|---|---|---|
-| [2-1](https://github.com/kpo9101/Til/blob/main/C%2B%2B/2-1.md) | [2-2](https://github.com/kpo9101/Til/blob/main/C%2B%2B/2-2.md) | [2-3](https://github.com/kpo9101/Til/blob/main/C%2B%2B/2-3.md) | [2-4](https://github.com/kpo9101/Til/blob/main/C%2B%2B/2-4.md) |
+| [2-1](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/2-1.md) | [2-2](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/2-2.md) | [2-3](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/2-3.md) | [2-4](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/2-4.md) |
 
 ### 3
 | 3-1 | 3-2 |
 |---|---|
-| [3-1](https://github.com/kpo9101/Til/blob/main/C%2B%2B/3-1.md) | [3-2](https://github.com/kpo9101/Til/blob/main/C%2B%2B/3-2.md) |
+| [3-1](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/3-1.md) | [3-2](https://github.com/kpo9101/MYTIL/blob/main/C%2B%2B/3-2.md) |
 
 </details>
 
@@ -367,21 +366,21 @@
 ---
 
 <a name="python"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/Image/image-2.png" width="24" /> Python
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-2.png" width="24" /> Python
 
 <details >
 <summary><strong>Python 기초 학습</strong></summary>
 
 | 1 | 
 |---|
-| [1](https://github.com/kpo9101/Til/blob/main/Python/Python%201.md)| 
+| [1](https://github.com/kpo9101/MYTIL/blob/main/Python/Python%201.md)| 
 
 </details>
 
 ---
 
 <a name="link"></a>
-## <img src="https://github.com/kpo9101/Til/blob/main/Image/image-4.png" width="24" /> Link
+## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/image-4.png" width="24" /> Link
 
 <div align="center">
 

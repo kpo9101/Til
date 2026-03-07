@@ -1,3 +1,0 @@
-C:\TIL\Til\C.Code\Section01\Ex010406\x64\Debug\Ex010406.vcxproj.MdMergeInputs.cache
-C:\TIL\Til\C.Code\Section01\Ex010406\x64\Debug\Ex010406.vcxproj.cppwinrt_plat.cache
-C:\TIL\Til\C.Code\Section01\Ex010406\x64\Debug\Ex010406.vcxproj.cppwinrt_comp.cache

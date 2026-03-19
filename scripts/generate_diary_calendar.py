@@ -19,7 +19,7 @@ def generate_month_calendar(year: int, month: int) -> str:
                 date_str = f"{year}.{month:02d}.{day:02d}"
                 weekday = KOREAN_WEEKDAYS[calendar.weekday(year, month, day)]
                 filename = f"{date_str}.{weekday}.md"
-                link = f"[{date_str}.{weekday}](자유로그/{filename})"
+                link = f"[{date_str}.{weekday}](다이어리/{filename})"
                 row.append(link)
         markdown += "| " + " | ".join(row) + " |\n"
     markdown += "\n</details>\n\n"

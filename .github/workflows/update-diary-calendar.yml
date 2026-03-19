@@ -1,0 +1,35 @@
+name: 📔 다이어리 달력 자동 업데이트
+
+# ← 이 부분이 핵심! push 권한 부여
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'      # 매월 1일 자동 실행
+  workflow_dispatch:         # 수동 실행 가능
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # ← push 권한 주는 핵심
+          fetch-depth: 0                       # ← 안전하게 전체 히스토리 가져오기
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 달력 생성
+        run: python scripts/generate_diary_calendar.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📅 다이어리 달력 자동 업데이트" || echo "✅ 변경사항 없음"
+          git push

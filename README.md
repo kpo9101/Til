@@ -40,8 +40,6 @@
 <a name="diary"></a>
 ## <img src="https://github.com/kpo9101/MYTIL/blob/main/Image/TilImage01.png" width="24" /> 다이어리
 
-- 📌 [통합 요약본](https://github.com/kpo9101/MYTIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/%ED%86%B5%ED%95%A9%20%EC%9A%94%EC%95%BD%EB%B3%B8.md)
-
 <details>
 <summary><strong>📅 2026년</strong></summary>
 
@@ -58,7 +56,7 @@
 
 | 2026.03.17.화 | 2026.03.18.수 | 2026.03.19.목 | 2026.03.20.금 | 2026.03.21.토 | 2026.03.22.일 | 2026.03.23.월 | 
 |---|---|---|---|---|---|---|
-|[2026.03.17.화](https://github.com/kpo9101/TIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.17.%ED%99%94.md)  |  |  |  |  |  |  |
+|[2026.03.17.화](https://github.com/kpo9101/TIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.17.%ED%99%94.md)  |[2026.03.18.수](https://github.com/kpo9101/TIL/blob/main/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/2026.03.18.%EC%88%98.md)  |[2026.03.19.목]  |  |  |  |  |
 
 | 2026.03.24.화 | 2026.03.25.수 | 2026.03.26.목 | 2026.03.27.금 | 2026.03.28.토 | 2026.03.29.일 | 2026.03.30.월 | 2026.03.31.화 |
 |---|---|---|---|---|---|---|---|

@@ -32,8 +32,8 @@ start = content.find("<!-- DIARY_CALENDAR_START -->") + len("<!-- DIARY_CALENDAR
 end = content.find("<!-- DIARY_CALENDAR_END -->")
 
 new_calendar = ""
-for m in range(3, 13):                    # 2026년 전체 12개월
-    new_calendar += generate_month_calendar(2026, m)
+for m in range(3, 13):                    # 전체 12개월
+    new_calendar += generate_month_calendar(2027, m)
 
 new_content = content[:start] + "\n\n" + new_calendar + content[end:]
 

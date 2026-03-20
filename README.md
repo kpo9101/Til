@@ -2,14 +2,12 @@
 
 <div align="center">
   <h1>Today I Learned</h1>
-  <p><strong>오늘 배운 것은 오늘 작성하기</strong></p>
+  <p><strong>오늘 배운 내용</strong></p>
 </div>
 
 ---
 
-<!-- DIARY_CALENDAR_START -->
-<!-- Python이 여기다 자동으로 모든 <details> + 테이블 + 링크를 채워줍니다 -->
-<!-- DIARY_CALENDAR_END -->
+
 
 ### 🚀 목차 
 
@@ -68,6 +66,12 @@
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |
 </details>
+</details>
+
+<details>
+<!-- DIARY_CALENDAR_START -->
+<!-- Python이 여기다 자동으로 모든 <details> + 테이블 + 링크를 채워줍니다 -->
+<!-- DIARY_CALENDAR_END -->
 </details>
 
 ---
